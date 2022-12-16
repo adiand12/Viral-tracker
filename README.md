@@ -1,4 +1,4 @@
-# React COVID TrackerT
+# React COVID Tracker
 This project aims at maintaining a dashboard about the ongoing total number of covid cases worldwide.
 ## Available Scripts
 
